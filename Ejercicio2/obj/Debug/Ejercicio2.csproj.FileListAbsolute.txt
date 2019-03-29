@@ -1,0 +1,9 @@
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.Cache
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\LuisBeltran\Desktop\PROGRA\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
